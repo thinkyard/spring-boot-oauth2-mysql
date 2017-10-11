@@ -1,9 +1,9 @@
 package org.thinkyard.app.config;
 
-import static org.thinkyard.app.constants.PropertyConstant.DATASOURCE_DRIVER_CLASS_NAME;
-import static org.thinkyard.app.constants.PropertyConstant.DATASOURCE_PASSWORD;
-import static org.thinkyard.app.constants.PropertyConstant.DATASOURCE_URL;
-import static org.thinkyard.app.constants.PropertyConstant.DATASOURCE_USERNAME;
+import static org.thinkyard.app.constant.PropertyConstant.DATASOURCE_DRIVER_CLASS_NAME;
+import static org.thinkyard.app.constant.PropertyConstant.DATASOURCE_PASSWORD;
+import static org.thinkyard.app.constant.PropertyConstant.DATASOURCE_URL;
+import static org.thinkyard.app.constant.PropertyConstant.DATASOURCE_USERNAME;
 
 import javax.sql.DataSource;
 

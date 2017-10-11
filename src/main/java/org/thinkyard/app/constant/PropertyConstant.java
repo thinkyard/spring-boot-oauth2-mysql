@@ -1,4 +1,4 @@
-package org.thinkyard.app.constants;
+package org.thinkyard.app.constant;
 
 public class PropertyConstant {
 
